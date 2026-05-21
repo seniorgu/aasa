@@ -1,5 +1,5 @@
 # AI-Augmented Solution Architecture (AASA)
----
+
 ## Synopsis
 The document defines **AASA (AI-Augmented Solution Architecture)** as an
 enterprise-oriented architectural approach for integrating AI into
@@ -10,7 +10,7 @@ AASA is positioned as:
 
 - an **enterprise AI absorption and coexistence architecture**, and
 
-- a complement to the more AI-native orientation of AISA.
+- a complement to the more AI-native orientation of AISA (AI Solution Architecture).
 
 The specification emphasizes:
 
