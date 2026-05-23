@@ -67,7 +67,7 @@ Figure 1 illustrates an AASA for an AI-Augmented Enterprise Operations Platform.
 
 - enterprise integration continuity.
 
-![Canonical Case Example](../images/aasa-canonical-example.png "Canonical Case Example")
+![Canonical Case Example](images/aasa-canonical-example.png "Canonical Case Example")
 
 *Figure 1: AASA for an AI-Augmented Enterprise Operations Platform*
 
@@ -83,7 +83,7 @@ Figure 2 shows AASA edge case for a High-Risk Human-Governed AI Decision Environ
 
 - operational safeguards.
 
-![Edge Case Example](../images/aasa-edge-case.png "Edge Case Example")
+![Edge Case Example](images/aasa-edge-case.png "Edge Case Example")
 
 *Figure 2: AASA Edge Case Example*
 
