@@ -2,7 +2,7 @@
 
 ---
 
-## Overview 
+## Overview
 
 AASA (AI-Augmented Solution Architecture) adopts a more augmented, integrative, absorptive, evolutionary, hybrid, or fused approach to AI enterprise solutions, compared with the AI-first orientation of AISA (AI-Native Solution Architecture, see this [link](https://github.com/seniorgu/aisa/blob/main/docs/aisa-specification.md)). It is positioned as an enterprise AI absorption and coexistence architecture, aiming to maintain architectural continuity while enabling AI augmentation.
 
