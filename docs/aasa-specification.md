@@ -89,7 +89,7 @@ Figure 2 shows AASA edge case for a High-Risk Human-Governed AI Decision Environ
 
 ---
 
-## Related Model Spec and Architecture
+## Related Model Specification and Architecture
 
 AASA uses the AI-ESA (AI Enterprise Solution Architecture) specification for modeling and maintains a close relationship with AISA (AI Solution Architecture).
 
