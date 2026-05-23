@@ -58,4 +58,5 @@ Finally, the document positions AASA within the broader ecosystem:
 - while AASA addresses enterprise coexistence and governance-oriented
   augmentation.
 ---
+## Details
 Click this [link](docs/aasa-specification.md) for details.
