@@ -2,6 +2,7 @@ site_name: AI-Augmented Solution Architecture - AASA
 
 nav:
   - Home: aasa-specification.md
+  - AASA: aasa-specification.md
 
 theme:
   name: material
