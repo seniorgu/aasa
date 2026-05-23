@@ -6,9 +6,3 @@ nav:
 
 theme:
   name: material
-  features: []
-
-nav: []
-
-extra_css:
-  - extra.css
