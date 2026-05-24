@@ -1,28 +1,32 @@
-# AI-Augmented Solution Architecture (AASA)
+# AI-Augmented Solution (AIS+) Architecture
 
 ---
 
 ## Overview
 
-AASA (AI-Augmented Solution Architecture) adopts a more augmented, integrative, absorptive, evolutionary, hybrid, or fused approach to AI enterprise solutions, compared with the AI-first orientation of AISA (AI-Native Solution Architecture, see this [link](https://github.com/seniorgu/aisa/blob/main/docs/aisa-specification.md)). It is positioned as an enterprise AI absorption and coexistence architecture, aiming to maintain architectural continuity while enabling AI augmentation.
+AIS+ (AI-Augmented Solution) Architecture adopts a more augmented, integrative, absorptive, evolutionary, hybrid, or fused approach to AI enterprise solutions, compared with the AI-first orientation of AIS (AI-Native Solution Architecture, see this [link](https://github.com/seniorgu/aisa/blob/main/docs/aisa-specification.md)). It is positioned as an enterprise AI absorption and coexistence architecture, aiming to maintain architectural continuity while enabling AI augmentation.
 
+<<<<<<< Updated upstream
 ## AASA Architectural Approach 
+=======
+## AIS+ Architectural Approach
+>>>>>>> Stashed changes
 
-AASA’s architectural approaches include:
+AIS+’s architectural approaches include:
 
 - **AI absorption approach (beyond AI adoption):** progressing from adopted intelligence toward owned intelligence
 
 - **Coexistence of operational modes:** supporting autonomy, semi-autonomy, automation, and semi-automation to enable gradual augmentation
 
-- **Governance-heavy control:** emphasizing stronger governance mechanisms beyond the validation and adaptation focus of AISA (AI Solution Architecture)
+- **Governance-heavy control:** emphasizing stronger governance mechanisms beyond the validation and adaptation focus of AIS (AI Solution) Architecture
 
 - **System integration focus:** addressing integration challenges in heterogeneous enterprise environments
 
 - **Enterprise alignment:** stronger alignment with business requirements, data strategies, and organizational assurance objectives
 
-## AASA Modeling Elements
+## AIS+ Modeling Elements
 
-As an AI-augmented architectural approach, AASA incorporates both non-AI elements and AI-specific elements (which are heavily emphasized in AISA). As a result, AASA operates on a mixed set of AI and non-AI elements, including a shared subset with AISA. Table 1 presents the primary AI and non-AI elements of AASA.
+As an AI-augmented architectural approach, AIS+ incorporates both non-AI elements and AI-specific elements (which are heavily emphasized in AIS architecture). As a result, AIS+ operates on a mixed set of AI and non-AI elements, including a shared subset with AIS arch. Table 1 presents the primary AI and non-AI elements of AIS+.
 
 | **Element Name**    | **AI-Specific** | **Definition**                                                                                                                             |
 | ------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -39,21 +43,21 @@ As an AI-augmented architectural approach, AASA incorporates both non-AI element
 | AI/ML Lifecycle     | Yes             | Represents the lifecycle management processes for model training, experimentation, versioning, and deployment.                             |
 | Autonomous Tool     | Yes             | Represents external functions, plugins, and third-party services that extend AI capabilities through invocation.                           |
 
-*Table 1: Primary AASA Elements*
+*Table 1: Primary AIS+ Elements*
 
-For the full list of AASA modeling elements and its foundational AI-ESA specifications, refer to this [link](https://github.com/seniorgu/ai-esa/blob/main/docs/ai-esa-specification.md).
+For the full list of AIS+ modeling elements and its foundational AIS specification, refer to this [link](https://github.com/seniorgu/ai-esa/blob/main/docs/ai-esa-specification.md).
 
-AASA architectural services can be categorized into three types: fully autonomous applications, agentic applications with varying degrees of autonomy, and deterministic automation applications.
+AIS+ architectural services can be categorized into three types: fully autonomous applications, agentic applications with varying degrees of autonomy, and deterministic automation applications.
 
 ---
 
-## AASA Example
+## AIS+ Example
 
-Here are examples of AASA modeling cases.
+Here are examples of AIS+ modeling cases.
 
 ### Canonical Case Example
 
-Figure 1 illustrates an AASA for an AI-Augmented Enterprise Operations Platform. This example demonstrates:
+Figure 1 illustrates an AIS+ for an AI-Augmented Enterprise Operations Platform. This example demonstrates:
 
 - AI augmentation instead of replacement,
 
@@ -69,11 +73,11 @@ Figure 1 illustrates an AASA for an AI-Augmented Enterprise Operations Platform.
 
 ![Canonical Case Example](images/aasa-canonical-example.png "Canonical Case Example")
 
-*Figure 1: AASA for an AI-Augmented Enterprise Operations Platform*
+*Figure 1: AIS+ for an AI-Augmented Enterprise Operations Platform*
 
 ### Edge Case Example
 
-Figure 2 shows AASA edge case for a High-Risk Human-Governed AI Decision Environment. This edge case demonstrates:
+Figure 2 shows AIS+ edge case for a High-Risk Human-Governed AI Decision Environment. This edge case demonstrates:
 
 - constrained autonomy,
 
@@ -91,6 +95,6 @@ Figure 2 shows AASA edge case for a High-Risk Human-Governed AI Decision Environ
 
 ## Related Model Specification and Architecture
 
-AASA uses the AI-ESA (AI Enterprise Solution Architecture) specification for modeling and maintains a close relationship with AISA (AI Solution Architecture).
+AIS+ uses the AIS model specification and maintains a close relationship with AIS (AI Solution) Architecture.
 
-For the relationship and relevance among AI-ESA, AISA, and AASA, see this [link](https://github.com/seniorgu/ai-esa/blob/main/docs/relationship-of-ai-esa-to-aisa-and-aasa.md). 
+For the relationship and relevance among AIS model, AIS arch, and AIS+ arch, see this [link](https://github.com/seniorgu/ai-esa/blob/main/docs/relationship-of-ai-esa-to-aisa-and-aasa.md). 

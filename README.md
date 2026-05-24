@@ -1,16 +1,14 @@
-# AI-Augmented Solution Architecture (AASA)
+# AI-Augmented Solution (AIS+) Architecture
 
 ## Synopsis
-The document defines **AASA (AI-Augmented Solution Architecture)** as an
-enterprise-oriented architectural approach for integrating AI into
-existing organizational ecosystems through augmentation, coexistence,
-and gradual absorption rather than AI-first replacement.
 
-AASA is positioned as:
+The document defines **AIS+ (AI-Augmented Solution) Architecture**, as an enterprise-oriented architectural approach for integrating AI into existing organizational ecosystems through augmentation, coexistence, and gradual absorption rather than AI-first replacement.
+
+AIS+ arch is positioned as:
 
 - an **enterprise AI absorption and coexistence architecture**, and
 
-- a complement to the more AI-native orientation of AISA (AI Solution Architecture).
+- a complement to the more AI-native orientation of AIS (AI Solution) Architecture.
 
 The specification emphasizes:
 
@@ -33,7 +31,7 @@ The document introduces a hybrid architectural model composed of:
   models, knowledge services, lifecycle management, and autonomous
   tools).
 
-AASA classifies enterprise AI applications into:
+AIS+ architecture classifies enterprise AI applications into:
 
 1. fully autonomous applications,
 
@@ -49,14 +47,16 @@ Two architectural examples are presented:
 - an **Edge Case Example** showing constrained autonomy and
   human-governed AI decision environments.
 
-Finally, the document positions AASA within the broader ecosystem:
+Finally, the document positions AIS+ within the broader ecosystem:
 
-- AI-ESA provides the foundational semantic specification,
+- AIS model provides the foundational semantic specification,
 
-- AISA focuses on AI-native architectural operationalization,
+- AIS architecture focuses on AI-native architectural operationalization,
 
-- while AASA addresses enterprise coexistence and governance-oriented
-  augmentation.
+- while AIS+ architecture addresses enterprise coexistence and governance-oriented augmentation.
+
 ---
+
 ## Details
+
 Click this [link](docs/aasa-specification.md) for details.
