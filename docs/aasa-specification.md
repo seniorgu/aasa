@@ -1,4 +1,4 @@
-# AASA (AI-Augmented Solution Architecture) Modeling Approach
+# AASA (AI-Augmented Solution Architecture)
 
 ---
 
