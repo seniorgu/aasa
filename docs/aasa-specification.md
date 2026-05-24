@@ -1,4 +1,4 @@
-# AASA (AI-Augmented Solution Architecture)
+# AI-Augmented Solution Architecture (AASA)
 
 ---
 
