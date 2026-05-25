@@ -93,4 +93,4 @@ Figure 2 shows ASA+ edge case for a High-Risk Human-Governed AI Decision Environ
 
 ASA+ uses its model specification and maintains a close relationship with AI-native solution architecture.
 
-For the relationship and relevance among ASA model and approach, and AIS+ approach, see this [link](https://github.com/seniorgu/ai-esa/blob/main/docs/relationship-of-ai-esa-to-aisa-and-aasa.md). 
+For the relationship and relevance among ASA model and approach, and ASA+ approach, see this [link](https://github.com/seniorgu/ai-esa/blob/main/docs/relationship-of-ai-esa-to-aisa-and-aasa.md). 

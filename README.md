@@ -4,7 +4,7 @@
 
 The document defines **ASA+ (AI-Augmented Solution Architecture)**, as an enterprise-oriented architectural approach for integrating AI into existing organizational ecosystems through augmentation, coexistence, and gradual absorption rather than AI-first replacement.
 
-ASA+ arch is positioned as:
+ASA+ is positioned as:
 
 - an **enterprise AI absorption and coexistence architecture**, and
 
@@ -24,12 +24,9 @@ The specification emphasizes:
 
 The document introduces a hybrid architectural model composed of:
 
-- traditional enterprise solution elements (applications, data services,
-  technical components),
+- traditional enterprise solution elements (applications, data services, technical components),
 
-- and AI-native elements (AI agents, coordinators, context state, AI
-  models, knowledge services, lifecycle management, and autonomous
-  tools).
+- and AI-native elements (AI agents, coordinators, context state, AI models, knowledge services, lifecycle management, and autonomous tools).
 
 ASA+ classifies enterprise AI applications into:
 
@@ -44,8 +41,7 @@ Two architectural examples are presented:
 - a **Canonical Case Example** demonstrating enterprise AI augmentation
   with governance and operational continuity, and
 
-- an **Edge Case Example** showing constrained autonomy and
-  human-governed AI decision environments.
+- an **Edge Case Example** showing constrained autonomy and human-governed AI decision environments.
 
 Finally, the document positions ASA+ within the broader ecosystem:
 
