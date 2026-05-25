@@ -45,11 +45,11 @@ Two architectural examples are presented:
 
 Finally, the document positions ASA+ within the broader ecosystem:
 
-- ASA model provides the foundational semantic specification,
+- **ASA model** provides the foundational semantic specification,
 
-- ASA approach focuses on AI-native architectural operationalization,
+- **ASA approach** focuses on AI-native architectural operationalization,
 
-- while ASA+ approach addresses enterprise coexistence and governance-oriented augmentation.
+- while **ASA+ approach** addresses enterprise coexistence and governance-oriented augmentation.
 
 ---
 
