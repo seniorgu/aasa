@@ -10,23 +10,7 @@ ASA+ is positioned as:
 
 - a complement to the more AI-native orientation of ASA approach.
 
-The specification emphasizes:
 
-- coexistence of autonomous and traditional operational models,
-
-- governance-heavy enterprise control,
-
-- integration across heterogeneous systems,
-
-- enterprise business alignment,
-
-- and continuity of operational architecture.
-
-The document introduces a hybrid architectural model composed of:
-
-- traditional enterprise solution elements (applications, data services, technical components),
-
-- and AI-native elements (AI agents, coordinators, context state, AI models, knowledge services, lifecycle management, and autonomous tools).
 
 ASA+ classifies enterprise AI applications into:
 
